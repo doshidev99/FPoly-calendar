@@ -1,0 +1,12 @@
+{
+  "name": "F-Calendar",
+  "displayName": "F-Calendar",
+  "expo": {
+    "name": "F-Calendar",
+    "slug": "F-Calendar",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
